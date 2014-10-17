@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ywt:home|Door43 (ywt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ywt|d43-ywt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ywt/archive/master.zip|d43-ywt.zip]]
+
+**Recent Changes**
+{{changes>ns = ywt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ywt|Ethnologue data]]
+
